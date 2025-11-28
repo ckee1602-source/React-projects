@@ -1,12 +1,14 @@
 import { Link } from 'react-router';
 import './header.css';
 
-export function Header({cart}) {
+export function Header({ cart }) {
   let totalQuantity = 0;
 
-  cart.foreach((cartItem) => {
-    totalQuantity += cartItem.totalQuantity;
-  });
+  cart.foreach((cartItem ) => {
+    totalQuantity += cartItem.quantity;
+
+  } );
+  
   return (
     <div className="header">
       <div className="left-section">
