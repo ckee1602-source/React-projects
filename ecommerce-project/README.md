@@ -43,9 +43,9 @@
 ### Tracking Page 
 <img width="1920" height="1020" alt="screenshot-1769009163781" src="https://github.com/user-attachments/assets/96b17895-cef5-47f5-862e-55ed261cdd65" />
 
-## Live Demo
+## Project Demo video
 
-http://localhost:5173/
+https://github.com/user-attachments/assets/49486eb9-5e21-4941-b5dc-f413b50bc079
 
 
 
