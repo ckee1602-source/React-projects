@@ -45,7 +45,7 @@
 
 ## Live Demo
 
-https://github.com/user-attachments/assets/f70cf48d-6559-4334-8983-bd635f7b7d2b
+http://localhost:5173/
 
 
 
